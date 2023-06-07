@@ -59,13 +59,11 @@ def max_marks(list1):
 ```
 
 ## Sample Input and Output
-![output]![3a python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/347e8e32-d358-432d-8287-99cf6c8289c2)
-(./img/max_marks1.j!
-[3b python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/61e3ae90-302a-4413-8c25-d40a07456e3a)
-pg) 
-![3c python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/81b6ab68-e146-401e-8cd9-07acff117d11)
 
 ## Output:
+![3a python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/26ced738-9b20-4c42-a116-b3db2e18ed6d)
+![3b python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/197e2dc0-8304-4408-b689-4d0cd68c2551)
+![3c python prem](https://github.com/premkumarkarthikeyan/FindMaximum/assets/119476243/cad2c4c1-595f-4167-8e0f-b8c04f4c1da2)
 
 ## Result:
 
